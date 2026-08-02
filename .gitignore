@@ -1,0 +1,20 @@
+# --- .NET ---
+bin/
+obj/
+*.user
+*.db
+*.db-shm
+*.db-wal
+# --- Node / Frontend ---
+node_modules/
+dist/
+*.local
+# --- Variables de entorno ---
+.env
+.env.*
+!.env.example
+# --- Editores / SO ---
+.vs/
+.vscode/
+.idea/
+.DS_Store

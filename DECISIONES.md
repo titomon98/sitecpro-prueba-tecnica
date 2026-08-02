@@ -1,0 +1,4 @@
+1. Para comenzar, me apoyé en IA para generar el archivo .gitignore, ya que considero que me pudo llevar mucho tiempo para algo básico del proyecto.
+2. Cree una arquitectura en capas para que no todo quedara únicamente en los controllers como lo indica el enunciado. He trabajado previamente con esta arquitectura por lo que su implementación no fue complicada.
+3. Para los paquetes NuGet, también realicé a través de IA, ya que desconocía las versiones exactas y quería ahorrar tiempo para dedicar a lo verdaderamente importante. Para esto también influyó que estoy construyendo el proyecto en MacOS y no en Windows. No es muy diferente.
+4. 
